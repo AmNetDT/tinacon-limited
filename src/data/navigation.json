@@ -1,0 +1,10 @@
+{
+  "navigationItems": [
+    { "to": "/", "label": "HOME" },
+    { "to": "/about", "label": "ABOUT US" },
+    { "to": "/services", "label": "SERVICES" },
+    { "to": "/projects", "label": "PROJECTS" },
+    { "to": "/team", "label": "TEAM" },
+    { "to": "/contact", "label": "CONTACT US" }
+  ]
+}

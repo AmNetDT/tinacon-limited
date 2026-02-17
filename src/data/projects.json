@@ -1,0 +1,197 @@
+{
+  "categories": [
+    "Civil & Structural Engineering",
+    "Mechanical Fabrication & Installation",
+    "Geosciences & Water Solutions",
+    "Facilities Management",
+    "Skilled Manpower Supply",
+    "Community & CSV Projects"
+  ],
+  "featuredPost": {
+    "id": "feat-nestle",
+    "title": "Nestlé Abuja Factory – Canteen Construction",
+    "date": "15 Mar 2024",
+    "excerpt": "This project involved the construction of a modern canteen facility designed to provide employees with a safe, hygienic, and comfortable dining environment.",
+    "category": "Civil & Structural Engineering",
+    "image": "/images/008.jpeg",
+    "slug": "nestle-factory",
+    "author": "Tinacon Limited Team",
+    "readTime": "5 min read",
+    "content": {
+      "intro": "The project included structural works, roofing, flooring, plumbing, electrical installations, and interior finishes. All work was delivered to meet strict quality, safety, and hygiene standards.",
+      "keyTakeaways": [
+        "Structural works",
+        "Roofing",
+        "Flooring",
+        "plumbing",
+        "electrical installations",
+        "interior finishes"
+      ],
+      "sections": [
+        {
+          "title": "Location",
+          "content": "Abuja, Nigeria"
+        }
+      ]
+    }
+  },
+  "blogPosts": [
+    {
+      "id": 1,
+      "image": "/images/057.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "9 min read",
+      "title": "Nestlé Fertilizer Warehouse",
+      "excerpt": "Construction of a durable and secure fertilizer warehouse designed for the efficient storage and handling of bulk materials.",
+      "slug": "nestle-warehouse",
+      "author": "Tinacon Limited Team",
+      "date": "12 Mar 2024",
+      "tags": ["Civil & Structural Engineering"],
+      "content": {
+        "intro": "The project included foundation works, structural framework, roofing, flooring, and access provisions. It was designed to ensure safety, efficiency, and compliance with industrial operational standards.",
+        "keyTakeaways": [
+          "Structural framework",
+          "Roofing",
+          "Flooring",
+          "access provisions"
+        ],
+        "sections": [
+          {
+            "title": "Location",
+            "content": "Abuja, Nigeria."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "image": "/images/077.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "5 min read",
+      "title": "Restroom Facilities (Nestlé Nigeria Plc)",
+      "excerpt": "Renovation and expansion of restroom facilities to improve hygiene, accessibility, and capacity for staff.",
+      "slug": "restroom-facilities",
+      "author": "Tinacon Limited Team",
+      "date": "15 Mar 2024",
+      "content": {
+        "intro": "This included the reconstruction of toilet blocks, plumbing, tiling, fixtures, and finishes, all adhering to strict quality, safety, and sanitary standards.",
+        "keyTakeaways": [
+          "toilet blocks",
+          "plumbing",
+          "fixtures",
+          "tiling",
+          "finishes"
+        ],
+        "sections": [
+          {
+            "title": "Client",
+            "content": "Nestlé Nigeria Plc"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "image": "/images/007.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "12 min read",
+      "title": "Administrative Block Upgrades",
+      "excerpt": "Roofing and ceiling upgrades in the administrative block of the Nestlé Factory",
+      "slug": "administrative-block-upgrades",
+      "author": "Tinacon Limited Team",
+      "date": "10 Mar 2024",
+      "tags": ["Installation", "Repairs", "Finishing Works"],
+      "content": {
+        "intro": "The project involved installation, repairs, and finishing works to enhance structural integrity, aesthetics, and indoor comfort while ensuring compliance with safety and quality standards.",
+        "keyTakeaways": ["Installation", "Repairs"],
+        "sections": [
+          {
+            "title": "Location",
+            "content": "Shagamu, Nigeria."
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "image": "/images/080.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "7 min read",
+      "title": "NNPC Uyo Branch",
+      "excerpt": "Comprehensive maintenance and facelift of the Uyo NNPC branch.",
+      "slug": "nnpc-uyo-branch",
+      "author": "Tinacon Limited Team",
+      "date": "8 Mar 2024",
+      "content": {
+        "intro": "The project was designed to enhance operational efficiency, safety, and aesthetic appeal.",
+        "keyTakeaways": [
+          "Operational efficiency",
+          "Safety",
+          "Aesthetic appeal"
+        ],
+        "sections": [
+          {
+            "title": "Location",
+            "content": "Uyo, Akwa Ibom, Nigeria."
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "image": "/images/075.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "6 min read",
+      "title": "Office Expansion (Nestlé Nigeria Plc)",
+      "excerpt": "Structural and interior works for office expansion.",
+      "slug": "office-expansion-nestle-nigeria-plc",
+      "author": "Tinacon Limited Team",
+      "date": "5 Mar 2024",
+      "content": {
+        "intro": "Included 100 mm thick grade 25 decking, H-beam supports, mild steel stairs and platforms, aluminum and glass office partitions, floor tiling, painting, and the installation of Luxalon ceilings.",
+        "keyTakeaways": [
+          "100 mm thick grade 25 decking",
+          "H-beam supports",
+          "Mild steel stairs and platforms",
+          "Aluminum and glass office partitions"
+        ],
+        "sections": [
+          {
+            "title": "Location",
+            "content": "Abaji-FCT, Nigeria"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "image": "/images/084.jpeg",
+      "category": "Civil & Structural Engineering",
+      "readTime": "10 min read",
+      "title": "Fabrication for Sundry Foods Limited",
+      "excerpt": "Fabrication of food-grade stainless steel equipment for restaurant operations.",
+      "slug": "fabrication-for-sundry-foods-limited",
+      "author": "Tinacon Limited Team",
+      "date": "1 Mar 2024",
+      "content": {
+        "intro": "Included grinding machines and stands, frying baskets, and handles, ensuring durability, safety, and quality in food preparation.",
+        "keyTakeaways": [
+          "Food-grade stainless steel equipment",
+          "Durability and safety in food preparation",
+          "frying baskets and handles",
+          "Innovation in engineering creates competitive advantages"
+        ],
+        "sections": [
+          {
+            "title": "Client",
+            "content": "Sundry Foods Limited."
+          },
+          {
+            "title": "Location",
+            "content": "Lagos and Port Harcourt, Nigeria."
+          }
+        ]
+      }
+    }
+  ]
+}

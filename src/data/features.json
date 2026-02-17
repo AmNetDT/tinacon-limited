@@ -1,0 +1,63 @@
+{
+  "secureAccessFeatures": [
+    "38+ years of proven industry experience",
+    "End-to-end project capability (design, construction, fabrication, maintenance)",
+    "90% customized solutions tailored to client needs",
+    "Strong HSE and quality compliance culture",
+    "Extensive lifecycle maintenance expertise",
+    "High project success and client retention rate",
+    "Trusted by industry leaders and multinational organizations"
+  ],
+  "brandLogos": [
+    "/images/figma.svg",
+    "/images/notion.svg",
+    "/images/slack.svg",
+    "/images/spotify.svg",
+    "/images/twitter.svg",
+    "/images/desktop.svg"
+  ],
+  "whyUsCards": [
+    {
+      "id": 1,
+      "image": "/images/007.jpeg",
+      "title": "Nestlé Abuja Factory - Canteen Construction"
+    },
+    {
+      "id": 2,
+      "image": "/images/086.jpeg",
+      "title": "Nestlé Fertilizer Warehouse"
+    },
+    {
+      "id": 3,
+      "image": "/images/077.jpeg",
+      "title": "Restroom Facilities (Nestlé Nigeria Plc)"
+    }
+  ],
+  "billingTabs": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "aggregation",
+      "label": "Aggregation",
+      "image": "/images/dashboard3.png"
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing & Credits",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "integrations",
+      "label": "Integrations",
+      "image": "/images/dashboard3.png"
+    },
+    {
+      "id": "api",
+      "label": "API & Webhooks",
+      "image": "/images/dashboard2.png"
+    }
+  ]
+}
