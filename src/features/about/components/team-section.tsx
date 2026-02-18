@@ -81,11 +81,16 @@ export default function TeamSection() {
               </h3>
               <p className="text-blue-600 font-bold mb-4">{ceo.role}</p>
               <p className="text-blue-950 font-light mb-4">{ceo.specialty}</p>
-              <p className="text-slate-600 leading-relaxed text-sm md:text-base">
+              <p className="text-slate-600 leading-relaxed text-sm md:text-base mb-4">
                 A seasoned professional with extensive experience in engineering
                 and project management. He oversees the strategic direction of
                 the company and ensures project delivery aligns with core
                 values.
+              </p>
+
+              <p className="font-extrabold text-md mb-4 text-blue-600">
+                MSc. (Applied Geography) UNILAG, Akoka. BSc. (Geology) UNILORIN,
+                Ilorin.
               </p>
             </div>
           </div>
@@ -115,6 +120,9 @@ export default function TeamSection() {
                 </p>
                 <p className="text-blue-950 text-md font-light mb-4">
                   {member.specialty}
+                </p>
+                <p className="font-extrabold text-md mb-4 text-blue-600">
+                  {member.profile}
                 </p>
               </div>
             </div>

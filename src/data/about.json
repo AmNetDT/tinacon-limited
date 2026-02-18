@@ -3,7 +3,7 @@
     "label": "Check our stats",
     "title": "About us",
     "description": "Making credit history with banking",
-    "content": "Global Bank is a strategic branding agency focused on brand creation, rebrands, and brand transformations. We partner with companies to create powerful and engaging brand experiences that connect with customers and drive business growth.",
+    "content": "Tinacon Limited is a strategic branding agency focused on brand creation, rebrands, and brand transformations. We partner with companies to create powerful and engaging brand experiences that connect with customers and drive business growth.",
     "image": "/images/abouts/about.png",
     "ctaText": "Read more"
   },
@@ -29,37 +29,49 @@
       "name": "Abdulsalam Abdulhamid O.",
       "role": "Managing Director",
       "specialty": "Project Management Civil Engineering, Mechanical Fabrications and Installation, Geosciences.",
+      "profile": "MSc. (Applied Geography) UNILAG, Akoka. BSc. (Geology) UNILORIN, Ilorin.",
       "image": "/images/avatar1.png"
     },
     {
       "name": "Lawal Sodiq A.",
       "role": "General Manager",
       "specialty": "Hydrogeology, Geotechnics, Personel Management and Environmental Geoscience Pollution Mapping.",
+      "profile": "MSc. (Groundwater and Environment Geoscience) OAU, Ife. BSc. (Geology) OAU, Ife. ",
       "image": "/images/avatar2.png"
     },
     {
-      "name": "Floyd Miles",
-      "role": "Head Marketer Global Bank",
+      "name": "Salami Babatunde M.",
+      "role": "Consultant",
+      "specialty": "Hydrogeology Engineering, Geology Environmental, Geology Geotechnics.",
+      "profile": "PhD (Applied Geology) OAU, Ife. MSc. (Applied Geology) UNIFE, Ife. BSc. (Geology) UNIFE, Ife. ",
       "image": "/images/avatar3.png"
     },
     {
-      "name": "Guy Hawkins",
-      "role": "CEO at Global Bank",
+      "name": "Olufemi Bode-Badaki",
+      "role": "Quality Surveyor.",
+      "specialty": "Preparation of Bill of Quantities. Material and Labour Schedules, Finacial and Progress Reports, Property Inspection and Evaluation, Remodeling Inspections, Reporting and Casting, Site Supervision, Procurements, Project Execution.",
+      "profile": "B.Tech (Quantity Surveying) FUTMinna, Minna. M.Tech (Quantity Surveying) FUTMinna, Minna.",
+      "image": "/images/avatar2.png"
+    },
+    {
+      "name": "Idoko Napolean",
+      "role": "Civil Engineer",
+      "specialty": "Civil Engineering Analysis, Building Designs and Drawings, Structural Elements Detailing, Civil Project Supervision, Engineering Requirements and Assessment.",
+      "profile": "B.Tech (Quantity Surveying) FUTMinna, Minna.",
       "image": "/images/avatar1.png"
     },
     {
-      "name": "Brooklyn Simmons",
-      "role": "CFO at Global Bank",
-      "image": "/images/avatar2.png"
-    },
-    {
-      "name": "Floyd Miles",
-      "role": "Head Marketer Global Bank",
+      "name": "Alimi Yahaya",
+      "role": "Mechanical Engineer",
+      "specialty": "Mechanical Engineering, Mechanical Designs and Installations, Project Management, Structural Designs.",
+      "profile": "B.Tech (Quantity Surveying) FUTMinna, Minna. M.Tech (Quantity Surveying) FUTMinna, Minna.",
       "image": "/images/avatar3.png"
     },
     {
-      "name": "Guy Hawkins",
-      "role": "CEO at Global Bank",
+      "name": "Mustapha Ibrahim Olawale",
+      "role": "Architect",
+      "specialty": "Architectural Design and Drawings, Project/Site.",
+      "profile": "HND (Architecture) Federal Polytechnic, Bida.",
       "image": "/images/avatar1.png"
     }
   ]
