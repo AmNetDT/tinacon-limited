@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useCallback } from "react";
-import { Mail, Phone, Send, Loader2 } from "lucide-react";
+import { Mail, Send, Loader2 } from "lucide-react";
 import { Input, Select, Button, Card } from "../../../components/ui";
 import contactData from "../../../data/contact.json";
 
