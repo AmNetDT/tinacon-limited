@@ -29,7 +29,7 @@ const Header: React.FC = () => {
   const navigationItems: NavigationItem[] = navigationData.navigationItems;
 
   return (
-    <header className="overflow-hidden bg-blue-900">
+    <header className="overflow-hidden bg-white text-blue-900">
       <div className="container px-4 pb-3 mx-auto">
         <div className="flex items-center justify-between pt-6 -m-2">
           <div className="w-auto p-0">
@@ -64,8 +64,10 @@ const Header: React.FC = () => {
                       <Link
                         href={item.to}
                         className={`${
-                          pathname === item.to ? "text-green-400" : "text-white"
-                        } hover:text-green-400 transition-colors duration-200`}
+                          pathname === item.to
+                            ? "text-blue-900"
+                            : "text-blue-900"
+                        } hover:text-blue-700 transition-colors duration-200`}
                       >
                         {item.label}
                       </Link>

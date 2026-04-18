@@ -6,7 +6,7 @@ import { Link } from "lucide-react";
 interface WhyUsCard {
   id: number;
   image: string;
-  title: string;
+  title?: string;
 }
 
 interface FeaturesData {
