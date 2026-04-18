@@ -8,14 +8,7 @@
     "High project success and client retention rate",
     "Trusted by industry leaders and multinational organizations"
   ],
-  "brandLogos": [
-    "/images/figma.svg",
-    "/images/notion.svg",
-    "/images/slack.svg",
-    "/images/spotify.svg",
-    "/images/twitter.svg",
-    "/images/desktop.svg"
-  ],
+  "brandLogos": ["/images/twitter.svg"],
   "whyUsCards": [
     {
       "id": 1,
