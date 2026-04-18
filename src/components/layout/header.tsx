@@ -40,7 +40,7 @@ const Header: React.FC = () => {
                   href="/"
                 >
                   <Image
-                    src="/images/logo.svg"
+                    src="/images/logo.png"
                     alt="Logo"
                     width={180}
                     height={64}

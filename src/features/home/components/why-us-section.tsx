@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import featuresData from "../../../data/features.json";
-import { Link } from "lucide-react";
+import Link from "next/link";
 
 interface WhyUsCard {
   id: number;
