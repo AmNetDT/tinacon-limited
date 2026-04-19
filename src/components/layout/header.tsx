@@ -111,24 +111,33 @@ const Header: React.FC = () => {
       </div>
       <div
         className={`${
-          mobileNavOpen ? "block" : "hidden"
+          mobileNavOpen ? "visible" : "invisible delay-700"
         } fixed top-0 left-0 bottom-0 w-4/6 sm:max-w-xs z-50`}
       >
         <div
-          className="fixed inset-0 bg-black opacity-60"
+          className={`fixed inset-0 bg-black transition-opacity duration-700 ease-in-out ${
+            mobileNavOpen ? "opacity-60" : "opacity-0"
+          }`}
           onClick={toggleMobileNav}
         ></div>
-        <nav className="relative z-10 px-9 pt-8 h-full bg-black overflow-y-auto">
+
+        <nav
+          className={`relative z-10 px-9 pt-8 h-full bg-black overflow-y-auto transform transition-transform duration-700 ease-out 
+              w-4/5 sm:max-w-sm ${
+                // Changed from w-4/6 and max-w-xs
+                mobileNavOpen ? "translate-x-0" : "-translate-x-full"
+              }`}
+        >
           <div className="flex flex-wrap justify-between h-full">
             <div className="w-full">
               <div className="flex items-center justify-between -m-2">
                 <div className="w-auto p-2">
-                  <Link className="inline-block h-12 w-auto" href="/">
+                  <Link className="inline-block h-16 w-auto" href="/">
                     <Image
-                      src="/images/logo.svg"
+                      src="/images/logo.svg" // Ensure the extension matches (your first code used .png)
                       alt="Logo"
-                      width={150}
-                      height={48}
+                      width={180} // Matches your original desktop width
+                      height={64} // Matches your original desktop height (h-16)
                       className="h-full w-auto object-contain"
                     />
                   </Link>
