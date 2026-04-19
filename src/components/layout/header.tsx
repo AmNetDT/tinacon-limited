@@ -120,11 +120,10 @@ const Header: React.FC = () => {
           }`}
           onClick={toggleMobileNav}
         ></div>
-
         <nav
           className={`relative z-10 px-9 pt-8 h-full bg-black overflow-y-auto transform transition-transform duration-700 ease-out 
-              w-4/5 sm:max-w-sm ${
-                // Changed from w-4/6 and max-w-xs
+              w-[85vw] sm:max-w-md ${
+                /* Increased to 85% width and 448px max-width */
                 mobileNavOpen ? "translate-x-0" : "-translate-x-full"
               }`}
         >
